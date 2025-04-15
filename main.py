@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 from PIL import Image
 from statistics import median
 import networkx as nx
-import warnings
 
 st.set_page_config(page_title="ESP LaLiga Overview")
 
@@ -190,7 +189,7 @@ with st.sidebar:
     st.write("This App was designed in order to get an overview of Spanish LaLiga regarding xG Open Play Per 100 Passes")
 
     st.subheader("My links (pt-br)")
-    st.link_button("Aposta Consciente", "https://go.hotmart.com/Q98778179P?dp=1", use_container_width=True)
+    st.link_button("Aposta Consciente", "https://apostaconsciente.hotmart.host/product-page-88be95cc-1892-4fa6-b364-69a271150f8f", use_container_width=True)
     st.link_button("Udemy", "https://www.udemy.com/user/saulo-faria-3/", use_container_width=True)
     st.link_button("Instagram", "https://www.instagram.com/saulo.foot/", use_container_width=True)
     st.link_button("X", "https://x.com/fariasaulo_", use_container_width=True)

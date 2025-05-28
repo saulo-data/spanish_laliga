@@ -194,6 +194,7 @@ with st.sidebar:
     st.link_button("Instagram", "https://www.instagram.com/saulo.foot/", use_container_width=True)
     st.link_button("X", "https://x.com/fariasaulo_", use_container_width=True)
     st.link_button("Youtube", "https://www.youtube.com/channel/UCkSw2eyetrr8TByFis0Uyug", use_container_width=True)
+    st.link_button("LinkedIn", "https://www.linkedin.com/in/saulo-faria-318b872b9/", use_container_width=True)
 
 st.html("""
         <style>
